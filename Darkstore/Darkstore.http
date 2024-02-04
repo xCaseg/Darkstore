@@ -1,6 +1,6 @@
 @Darkstore_HostAddress = http://localhost:5120
 
-GET {{Darkstore_HostAddress}}/https://xcaseg.github.io/Darkstore/
+GET {{Darkstore_HostAddress}}/Darkstore/
 Accept: application/json
 
 ###
